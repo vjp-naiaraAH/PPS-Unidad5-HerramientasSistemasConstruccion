@@ -6,9 +6,9 @@ Esta actividad es la base para probar las herramientas de automatización en la 
 
 ## Preparación del laboratorio
 1. Comienzo con la preparación del laboratorio, poniendo los comandos que se ven a continuación para:
-+ Crear una varable con mi nombre
-+ Crear una carpeta
-+ Colocarme en dicha carpeta
+   + Crear una varable con mi nombre
+   + Crear una carpeta
+   + Colocarme en dicha carpeta
 ```bash
 # crea variable con tu nombre
 TuNombre=naiara
